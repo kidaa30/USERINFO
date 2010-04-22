@@ -1,3 +1,4 @@
+name: SQL
 email: sxwiki@gmail.com
 url: http://toolserver.org/~sql/
 irc: SQLDb
