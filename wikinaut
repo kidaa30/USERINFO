@@ -1,5 +1,5 @@
 name: Thomas Gries
 email: http://www.mediawiki.org/wiki/Special:EmailUser/Wikinaut
 url: http://www.mediawiki.org/wiki/User:Wikinaut
-project: general, OpenID, email notification
+project: general, email notification, OpenID, LiquidThreads
 since: 20110302
