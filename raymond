@@ -2,5 +2,5 @@ name: Raimond Spekking
 email: raimond.spekking@gmail.com
 url: http://de.wikipedia.org/wiki/User:Raymond
 irc: Raymond_
-project: l10n
+project: l10n, core, extensions
 since: 20070201
