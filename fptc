@@ -1,10 +1,4 @@
-note: =========================================
-note: probably a multiple users account
-note: Tobias Beck, University of Heidelberg
-note: Andreas Fay, University of Heidelberg
-note: =========================================
-
-name: Tobias Beck, Andreas Fay
-email: tobias.beck@stud.uni-heidelberg.de, fay@stud.uni-heidelberg.de
+name: Tobias Beck
+email: tobias.beck@stud.uni-heidelberg.de
 since: 2011-09-02
 project: FreqPatternTagCloud extension
