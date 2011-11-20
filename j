@@ -1,2 +1,3 @@
 name: Jan Gerber
-email: j at thing dot net
+email: j@thing.net
+url: http://www.mediawiki.org/wiki/User:JanGerber
