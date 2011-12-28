@@ -1,7 +1,0 @@
- name: Sami Islam
- email: sami_islam@hotmail.com
- irc: SamiDE
- url: https://www.mediawiki.org/wiki/User:SamiIslam
- project: Extension
- since: 20111123
- languages spoken: English, German, Bengali
